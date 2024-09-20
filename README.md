@@ -16,4 +16,4 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 ### For more information:
-https://machinelearningprojects.net/face-recognition-based-attendance-system/
+https://machinelearningprojects.net/face-recognition-based-attendance-system//
