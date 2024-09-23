@@ -10,6 +10,7 @@ function Navbar() {
             <li><Link to= "/Register">Register</Link> </li>
             <li><Link to= "/About">About</Link> </li>
         </ul>
+        jkdfg
     </div>
   )
 }
